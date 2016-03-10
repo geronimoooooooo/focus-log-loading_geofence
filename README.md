@@ -34,9 +34,10 @@ The purpose of this web service is to determine, if a forest truck is unloading 
 
 asdfasdfadfasdf
 ---------------
-http://i.imgur.com/qpY0nVd.jpg
 
 
+Contact
+-------
 Author: Simo Lukic
 Contact: office.ispace@researchstudio.at
 www.researchstudio.at
