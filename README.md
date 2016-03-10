@@ -8,6 +8,11 @@ The purpose of this web service is to determine, if a forest truck is unloading 
 * Apache Tomcat 8 as web server
 * JDK 1.8 
 * Latest Eclipse IDE
+*
+
+**Get the pre-exported version:**
+
+1. Download the `focusgeofence.war` file from https://github.com/ispaceappengine/focus-log-loading_geofence/tree/master/build
 
 **1.** Download/pull the code.
 **2.** Import project into Eclipse IDE
