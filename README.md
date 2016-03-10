@@ -30,18 +30,14 @@ The purpose of this web service is to determine, if a forest truck is unloading 
 5. Access the web service: ..yourDomain.org/**focusgeofence**
 
 
-![](http://raw.github.com/wiki/openhab/openhab/images/features.png)
-
-asdfasdfadfasdf
----------------
-
-
 Contact
 -------
-Author: Simo Lukic
-Contact: office.ispace@researchstudio.at
-www.researchstudio.at
+Author: Simo Lukic<br />
+Contact: office.ispace@researchstudio.at<br />
+www.researchstudio.at<br />
 
+LICENSE
+-------
 The MIT License (MIT)
 
 Copyright (C) 2016 by Studio iSPACE, Researchstudios Austria Forschungsgesellschaft mbH. 
