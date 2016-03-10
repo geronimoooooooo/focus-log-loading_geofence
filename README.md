@@ -18,11 +18,17 @@ The purpose of this web service is to determine, if a forest truck is unloading 
 4. You should see something like the following
 ![](http://i.imgur.com/3PRY8o0.png)
 
-**Export your own focusgeofence.war file**
+
+**Export your own focusgeofence.war file:**
+
 **1.** Download/pull the code.
+
 **2.** Import project into Eclipse IDE
+
 **3.** Rightclick the project > Export > WAR file > Provide save destination > Finish.
+
 **4.** Deploy the war file to your Tomcat 8 web server.
+
 **5.** Access the web service: ..yourDomain.org/**focusgeofence**
 
 
